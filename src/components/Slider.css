@@ -1,0 +1,8 @@
+.cardwrapper{
+    width: 200px;
+    height: 250px;
+    background-color: var(--dark-gray);
+}
+.slidertitle{
+color: var(--fade);
+}
